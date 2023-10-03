@@ -1,0 +1,1 @@
+#Rolodex idea: store and retrieve contacts. We're going to store firstname, lastname, email, homephone, cellphone, address, city, state, zip
